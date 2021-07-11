@@ -8,4 +8,4 @@ bgImage.src = `img/${chosenImage}`;
 
 document.body.appendChild(bgImage);
 
-document.style.background = "e66465";
+//document.style.background = "e66465";
